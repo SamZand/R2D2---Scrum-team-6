@@ -1,4 +1,4 @@
-# R2D2 - Scrum-team-6
+# R2D2 - Scrum-team-6 - Experiment Git
 
 ## Team members
 - Sam Zandee (scrum-master)
