@@ -1,3 +1,5 @@
+## Author: Wiebe van Breukelen
+
 import numpy as np
 import numpy.random
 import matplotlib.pyplot as plt
